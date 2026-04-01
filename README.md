@@ -7,3 +7,6 @@ this is a new change.
  
  # for what
  - hackathons and all.
+
+# personal details
+- I have added some details about myself like where I am from and what I am currently doing.
