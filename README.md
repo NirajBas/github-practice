@@ -10,3 +10,6 @@ this is a new change.
 
 # personal details
 - I have added some details about myself like where I am from and what I am currently doing.
+
+# notified 
+- bla bla bla
